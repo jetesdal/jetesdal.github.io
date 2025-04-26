@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "dark"  # default
+site_theme               : "contrast" # default
 title                    : "Jan-Erik Tesdal"
 title_separator          : "-"
 name                     : &name "Dr. Jan-Erik Tesdal"
