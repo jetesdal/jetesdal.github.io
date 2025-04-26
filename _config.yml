@@ -9,13 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "JET's Research page"
+title                    : "Jan-Erik Tesdal"
 title_separator          : "-"
 name                     : &name "Dr. Jan-Erik Tesdal"
-description              : > 
-  Welcome to my research site. I am currently an Associate Research Scholar at 
-  Princeton University and NOAA GFDL, working on probabilistic sea-level projections 
-  and attributing uncertainties linked to ocean model differences.
+description              : "Personal academic website of Dr. Jan-Erik Tesdal"
 url                      : https://jetesdal.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jetesdal/jetesdal.github.io"
@@ -26,9 +23,9 @@ repository               : "jetesdal/jetesdal.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Jan-Erik Tesdal"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Associate Research Scholar at Princeton University and NOAA GFDL"
   location         : "Philadelphia, PA"
   employer         : "Princeton University | NOAA GFDL"
   uri              : # URL
