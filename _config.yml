@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "contrast"  # default
+site_theme               : "neon"  # default
 title                    : "Jan-Erik Tesdal"
 title_separator          : "-"
 name                     : &name "Dr. Jan-Erik Tesdal"
@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Associate Research Scholar at Princeton University and NOAA GFDL"
   location         : "Philadelphia, PA"
-  employer         : "Princeton University | NOAA GFDL"
+  employer         : "Princeton University"
   uri              : # URL
   email            : "jt7058@princeton.edu" 
 
